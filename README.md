@@ -1,8 +1,8 @@
-<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
+<div align="center">
 
 ###  ⚡ Safidy Mendrika RAZAFIMALAZA ⚡
 
-<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
+<div align="center">
 
 ### Created by [Safiddy Mendrika](https://github.com/safidyMendrika)
 
@@ -35,7 +35,7 @@
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
+<div align="center">
 
 ## 💻 My Tech Stack:
 
