@@ -6,7 +6,7 @@
 
 ### Created by [Safiddy Mendrika](https://github.com/safidyMendrika)
 
-<div style="text-align:left">
+<div align="left">
 
 - 🔭 I’m currently working at [Kante Co](https://kanteco.com) where we were [incubated by Nexta](https://www.linkedin.com/company/nexta-accelerator/?originalSubdomain=mg) and selected for [Miary Digital program](https://digital.miary.mg/).
 - 🌱 I’m passionate about **developpement and technologies**.
