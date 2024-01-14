@@ -55,8 +55,8 @@
 ## 🏆 My Stats:
 
 <p style="display:flex">
-    <img style="width:60%;height:175px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=safidymendrika&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img style="width:45%;height:175px"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safidymendrika&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img  height=175  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=safidymendrika&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img  height=175  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safidymendrika&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 
