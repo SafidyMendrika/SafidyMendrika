@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Created by [Safiddy Mendrika](https://github.com/safidyMendrika)
+### Created by [Safidy Mendrika](https://github.com/safidyMendrika)
 
 <div align="left">
 
