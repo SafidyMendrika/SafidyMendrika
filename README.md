@@ -1,8 +1,8 @@
-<center>
+<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
 
 ###  ⚡ Safidy Mendrika RAZAFIMALAZA ⚡
 
-<center>
+<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
 
 ### Created by [Safiddy Mendrika](https://github.com/safidyMendrika)
 
@@ -28,14 +28,14 @@
 [![Technos](https://skillicons.dev/icons?i=web)](https://mendrikarazafimalaza@onrender.com)
 </div>
 
-</center>
+</div>
 
 
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<center>
+<div style="display:flex;align-items:center;justify-content:space-arround;flex-direction:column">
 
 ## 💻 My Tech Stack:
 
@@ -47,7 +47,7 @@
 
 [![Applications](https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,figma,androidstudio,idea,gmail)](https://github.com/SafidyMendrika)
 
-</center>
+</div>
 
 
 <br/>
