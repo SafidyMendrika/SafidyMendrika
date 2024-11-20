@@ -39,13 +39,12 @@
 
 ## 💻 My Tech Stack:
 
-[![Technos](https://skillicons.dev/icons?i=html,css,js,nodejs,java,c,cs,php,python,ruby)](https://github.com/SafidyMendrika)
+[![Technos](https://skillicons.dev/icons?i=java,cs,php,python,ts)](https://github.com/SafidyMendrika)
 
-[![Frameworks](https://skillicons.dev/icons?i=ts,react,angular,laravel,spring,express,bootstrap,wordpress,flask,electron,django)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,laravel,spring,django)](https://skillicons.dev)
     
-[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,gcp)](https://github.com/SafidyMendrika)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb)](https://github.com/SafidyMendrika)
 
-[![Applications](https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,figma,androidstudio,idea,gmail)](https://github.com/SafidyMendrika)
 
 </div>
 
