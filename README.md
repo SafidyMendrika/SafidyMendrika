@@ -4,7 +4,6 @@
 
 <div align="center">
 
-### Created by [Safidy Mendrika](https://github.com/safidyMendrika)
 
 <!-- <div align="left">
 
@@ -28,9 +27,6 @@
 </div>
 
 </div>
-
-
-## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
