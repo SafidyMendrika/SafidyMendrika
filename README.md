@@ -20,7 +20,6 @@
 
 <div>
 
-[![Technos](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mendrick_rzf/)
 [![Technos](https://skillicons.dev/icons?i=github)](https://github.com/SafidyMendrika)
 [![Technos](https://skillicons.dev/icons?i=gmail)](mailto:mendrikarazafimalaza@gmail.com)
 [![Technos](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/safidy-mendrika-razafimalaza-549b3a255/)
