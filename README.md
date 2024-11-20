@@ -6,7 +6,7 @@
 
 ### Created by [Safidy Mendrika](https://github.com/safidyMendrika)
 
-<div align="left">
+<!-- <div align="left">
 
 - 🔭 I’m currently working at [Kante Co](https://kanteco.com) where we were [incubated by Nexta](https://www.linkedin.com/company/nexta-accelerator/?originalSubdomain=mg) and selected for [Miary Digital program](https://digital.miary.mg/).
 - 🌱 I’m passionate about **developpement and technologies**.
@@ -14,7 +14,7 @@
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source projects](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the piano, and practise Tae kown do!
 
-</div>
+</div> -->
 <br/>
 <br/>
 
