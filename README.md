@@ -36,7 +36,7 @@
 
 [![Technos](https://skillicons.dev/icons?i=java,python,ts)](https://github.com/SafidyMendrika)
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,django,angular)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,django,angular,react)](https://skillicons.dev)
     
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb)](https://github.com/SafidyMendrika)
 
