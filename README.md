@@ -34,9 +34,9 @@
 
 ## 💻 My Tech Stack:
 
-[![Technos](https://skillicons.dev/icons?i=java,cs,php,python,ts)](https://github.com/SafidyMendrika)
+[![Technos](https://skillicons.dev/icons?i=java,python,ts)](https://github.com/SafidyMendrika)
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,dotnet,laravel,django,angular)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,django,angular)](https://skillicons.dev)
     
 [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb)](https://github.com/SafidyMendrika)
 
