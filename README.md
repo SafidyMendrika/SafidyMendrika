@@ -1,6 +1,6 @@
 <div align="center">
 
-###  ⚡ Safidy Mendrika RAZAFIMALAZA ⚡
+###  Safidy Mendrika RAZAFIMALAZA
 
 <div align="center">
 
