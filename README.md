@@ -39,10 +39,10 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=SafidyMendrika&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="350" height="200" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafidyMendrika&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350" height="200" />
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=SafidyMendrika&theme=dark&hide_border=true" width="350" height="200" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafidyMendrika&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350" height="200" />
 
 </div>
 ---
