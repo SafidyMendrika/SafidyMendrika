@@ -12,23 +12,16 @@
 [![Angular](https://skillicons.dev/icons?i=angular)](https://github.com/SafidyMendrika)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://github.com/SafidyMendrika)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://github.com/SafidyMendrika)
-[![Django](https://skillicons.dev/icons?i=django)](https://github.com/SafidyMendrika)
-
 ### 🗄️ Databases
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/SafidyMendrika)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://github.com/SafidyMendrika)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://github.com/SafidyMendrika)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/SafidyMendrika)
 
 ### 🛠️ Tools & Skills
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.httpie.com/)
 [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
-
-### ☁️ Cloud & Tools
-[![Google Cloud](https://skillicons.dev/icons?i=googlecloud)](https://github.com/SafidyMendrika)
 
 
 ---
